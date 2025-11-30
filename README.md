@@ -1,1 +1,1 @@
-![Terrain Map Preview](images/terrain_preview.png)
+![Terrain Map Preview](terrain_preview.png)
